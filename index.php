@@ -1,7 +1,4 @@
-
-<?php
-echo 123;
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
